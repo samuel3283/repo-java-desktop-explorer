@@ -1,0 +1,13 @@
+cd D:\DATA\Apps\java\desktop\file-manager-master
+mvn install
+java - jar filemanager.jar
+
+
+
+usar de utiles
+Explorador.java
+
+Linea 250
+mouse click derecho
+jTreeFilesMouseReleased
+
